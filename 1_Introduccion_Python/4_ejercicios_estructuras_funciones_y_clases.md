@@ -4,7 +4,7 @@
 
 Crea una lista con las fechas y horas de clase desde hoy (13 de septiembre) hasta la última clase (6 de diciembre), ten en cuenta que los festivos no serán horas de clase.
 
-# E2: Crear un función
+# E2: Crear una función
 
 Crea una función para efectuar el producto real de dos matrices.
 
@@ -12,7 +12,7 @@ Crea una función para efectuar el producto real de dos matrices.
 
 Define una clase de números complejos cuyos métodos sean, al menos, el modulo y el argumento.
 
-# E4: 
+# E4: Implementación de operaciones con números complejos
 
 Define en funciones, usando la clase anterior, las operaciones básicas entre números complejos (sumar, restar, multiplicar y dividir). Puede ser conveniente añadir algún método al ejercicio anterior
 
