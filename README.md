@@ -61,7 +61,7 @@ La evaluación se compone de cuatro elementos:
 
 ⚠️ **Requisito indispensable:** para aprobar la asignatura será necesario **aprobar todas las partes de la evaluación** y haber asistido al **85% de las sesiones**.  
 
-### Propuesta de idea y entrega de la URL del repositorio en GitHub – **29 de septiembre de 2025**
+### Propuesta de idea y entrega de la URL del repositorio en GitHub – **2 de octubre de 2025**
 
 Cada estudiante deberá entregar una **propuesta inicial del proyecto** junto con la URL del repositorio en GitHub.  
 
